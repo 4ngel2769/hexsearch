@@ -2,9 +2,9 @@
 
 ----
 
-.. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
-   :target: https://docs.searxng.org/
-   :alt: SearXNG
+.. figure:: https://search.angellabs.xyz/static/themes/simple/img/searxng.png
+   :target: https://search.angellabs.xyz/
+   :alt: SearXNG - HexSearch
    :width: 100%
    :align: center
 
